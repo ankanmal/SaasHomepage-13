@@ -12,4 +12,4 @@ Here's the Website
 - I learned how to use HTML and CSS to create a beutiful website.
 - In this project I learn about flexbox and how to position items.
 
-## This project took around 6 hours to complete.
+## This project took around 2 hours to complete.
