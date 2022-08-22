@@ -43,6 +43,11 @@ body {
   border-radius: 4px;
   margin-top: 5px;
 }
+@media screen and (max-width: 974px) {
+  .list {
+    display: none;
+  }
+}
 
 /* hero container */
 
