@@ -49,6 +49,7 @@ body {
 .hero-container {
   display: flex;
   justify-content: space-evenly;
+  flex-wrap: wrap;
 }
 
 .hero-right {
@@ -95,6 +96,7 @@ body {
 .operating {
   display: flex;
   justify-content: space-evenly;
+  flex-wrap: wrap;
 }
 
 .ope-left {
@@ -125,6 +127,7 @@ body {
 .features {
   display: flex;
   justify-content: space-evenly;
+  flex-wrap: wrap;
 }
 .options {
   width: 16rem;
